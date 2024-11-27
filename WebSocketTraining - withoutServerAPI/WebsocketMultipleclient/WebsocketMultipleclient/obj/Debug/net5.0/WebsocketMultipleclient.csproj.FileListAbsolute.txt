@@ -1,0 +1,32 @@
+C:\Users\Mohamed\source\repos\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\WebsocketMultipleclient.csproj.AssemblyReference.cache
+C:\Users\Mohamed\source\repos\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\WebsocketMultipleclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\source\repos\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\WebsocketMultipleclient.AssemblyInfoInputs.cache
+C:\Users\Mohamed\source\repos\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\WebsocketMultipleclient.AssemblyInfo.cs
+C:\Users\Mohamed\source\repos\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\WebsocketMultipleclient.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\source\repos\WebsocketMultipleclient\WebsocketMultipleclient\bin\Debug\net5.0\WebsocketMultipleclient.exe
+C:\Users\Mohamed\source\repos\WebsocketMultipleclient\WebsocketMultipleclient\bin\Debug\net5.0\WebsocketMultipleclient.deps.json
+C:\Users\Mohamed\source\repos\WebsocketMultipleclient\WebsocketMultipleclient\bin\Debug\net5.0\WebsocketMultipleclient.runtimeconfig.json
+C:\Users\Mohamed\source\repos\WebsocketMultipleclient\WebsocketMultipleclient\bin\Debug\net5.0\WebsocketMultipleclient.runtimeconfig.dev.json
+C:\Users\Mohamed\source\repos\WebsocketMultipleclient\WebsocketMultipleclient\bin\Debug\net5.0\WebsocketMultipleclient.dll
+C:\Users\Mohamed\source\repos\WebsocketMultipleclient\WebsocketMultipleclient\bin\Debug\net5.0\WebsocketMultipleclient.pdb
+C:\Users\Mohamed\source\repos\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\WebsocketMultipleclient.dll
+C:\Users\Mohamed\source\repos\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\refint\WebsocketMultipleclient.dll
+C:\Users\Mohamed\source\repos\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\WebsocketMultipleclient.pdb
+C:\Users\Mohamed\source\repos\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\WebsocketMultipleclient.genruntimeconfig.cache
+C:\Users\Mohamed\source\repos\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\ref\WebsocketMultipleclient.dll
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\DotNet_Training\WebSocketTraining\WebsocketMultipleclient\WebsocketMultipleclient\bin\Debug\net5.0\WebsocketMultipleclient.exe
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\DotNet_Training\WebSocketTraining\WebsocketMultipleclient\WebsocketMultipleclient\bin\Debug\net5.0\WebsocketMultipleclient.deps.json
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\DotNet_Training\WebSocketTraining\WebsocketMultipleclient\WebsocketMultipleclient\bin\Debug\net5.0\WebsocketMultipleclient.runtimeconfig.json
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\DotNet_Training\WebSocketTraining\WebsocketMultipleclient\WebsocketMultipleclient\bin\Debug\net5.0\WebsocketMultipleclient.runtimeconfig.dev.json
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\DotNet_Training\WebSocketTraining\WebsocketMultipleclient\WebsocketMultipleclient\bin\Debug\net5.0\WebsocketMultipleclient.dll
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\DotNet_Training\WebSocketTraining\WebsocketMultipleclient\WebsocketMultipleclient\bin\Debug\net5.0\WebsocketMultipleclient.pdb
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\DotNet_Training\WebSocketTraining\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\WebsocketMultipleclient.csproj.AssemblyReference.cache
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\DotNet_Training\WebSocketTraining\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\WebsocketMultipleclient.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\DotNet_Training\WebSocketTraining\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\WebsocketMultipleclient.AssemblyInfoInputs.cache
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\DotNet_Training\WebSocketTraining\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\WebsocketMultipleclient.AssemblyInfo.cs
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\DotNet_Training\WebSocketTraining\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\WebsocketMultipleclient.csproj.CoreCompileInputs.cache
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\DotNet_Training\WebSocketTraining\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\WebsocketMultipleclient.dll
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\DotNet_Training\WebSocketTraining\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\refint\WebsocketMultipleclient.dll
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\DotNet_Training\WebSocketTraining\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\WebsocketMultipleclient.pdb
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\DotNet_Training\WebSocketTraining\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\WebsocketMultipleclient.genruntimeconfig.cache
+E:\Mohamed HAMMOUDA DATA\COURS_LIVRE\DotNet\Cours\DotNet_Training\WebSocketTraining\WebsocketMultipleclient\WebsocketMultipleclient\obj\Debug\net5.0\ref\WebsocketMultipleclient.dll
